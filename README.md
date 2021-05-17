@@ -81,7 +81,7 @@ CheckStyle is available in different flavours:
 Below are the various channels that are available to you for obtaining support and providing feedback. Please pay carful attention to which channel should be used for which type of content. e.g. general "how do I..." questions should be asked on Stack Overflow, Twitter or Gitter, with GitHub issues being for feature requests and bug reports.
 
 ### Github issues
-[Github issues](https://github.com/Microsoft/botbuilder-python/issues) should be used for bugs and feature requests. 
+[Github issues](https://github.com/Microsoft/botbuilder-java/issues) should be used for bugs and feature requests. 
 
 ### Stack overflow
 [Stack Overflow](https://stackoverflow.com/questions/tagged/botframework) is a great place for getting high-quality answers. Our support team, as well as many of our community members are already on Stack Overflow providing answers to 'how-to' questions.
